@@ -1,0 +1,22 @@
+a{
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover{
+    color: #666;
+}
+ul{
+    list-style: none;
+}
+i{
+    width: 100%;
+    height: 100%;
+}
+@media(max-width : 600px){
+
+    video{
+        width: 359px;
+    }
+
+}
